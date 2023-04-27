@@ -4,14 +4,14 @@
 
 int main() {
 
-	int w;
-	int l;
+	float w;
+	float l;
 
-	int w1;
-	int l1;
+	float w1;
+	float l1;
 
-	int A;
-	int P;
+	float A;
+	float P;
 
 	Rectangle objRectA(10,5);
 	Rectangle objRectB;
